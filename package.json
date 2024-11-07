@@ -3,7 +3,7 @@
 	"version": "0.0.6",
 	"private": false,
 	"description": "👨🏻‍🏭 Common —",
-	"homepage": "https://common.land.playform.cloud",
+	"homepage": "https://common.land.PlayForm.LTD",
 	"bugs": {
 		"url": "HTTPS://GitHub.Com/CodeEditorLand/DependencyLandCommon/issues"
 	},
@@ -14,7 +14,7 @@
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
 		"name": "Nikola Hristov",
-		"email": "Nikola@PlayForm.Cloud",
+		"email": "Nikola@PlayForm.LTD",
 		"url": "https://nikolahristov.tech"
 	},
 	"type": "module",
