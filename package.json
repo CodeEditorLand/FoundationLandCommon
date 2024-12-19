@@ -3,7 +3,7 @@
 	"version": "0.0.6",
 	"private": false,
 	"description": "👨🏻‍🏭 Common —",
-	"homepage": "https://common.land.PlayForm.LTD",
+	"homepage": "HTTPS://common.land.PlayForm.LTD",
 	"bugs": {
 		"url": "HTTPS://GitHub.Com/CodeEditorLand/Common/issues"
 	},
@@ -15,7 +15,7 @@
 	"author": {
 		"name": "Nikola Hristov",
 		"email": "Nikola@PlayForm.LTD",
-		"url": "https://nikolahristov.tech"
+		"url": "HTTPS://nikolahristov.tech"
 	},
 	"type": "module",
 	"scripts": {
