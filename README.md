@@ -1,6 +1,6 @@
 # [Common] 👨🏻‍🏭
 
-## 🚀 Installation
+## Installation 🚀
 
 First, install the `Common` component like so:
 
